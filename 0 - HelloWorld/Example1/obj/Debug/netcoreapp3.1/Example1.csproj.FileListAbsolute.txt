@@ -1,0 +1,13 @@
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/bin/Debug/netcoreapp3.1/Example1
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/bin/Debug/netcoreapp3.1/Example1.deps.json
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/bin/Debug/netcoreapp3.1/Example1.runtimeconfig.json
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/bin/Debug/netcoreapp3.1/Example1.runtimeconfig.dev.json
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/bin/Debug/netcoreapp3.1/Example1.dll
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/bin/Debug/netcoreapp3.1/Example1.pdb
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/obj/Debug/netcoreapp3.1/Example1.csprojAssemblyReference.cache
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/obj/Debug/netcoreapp3.1/Example1.AssemblyInfoInputs.cache
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/obj/Debug/netcoreapp3.1/Example1.AssemblyInfo.cs
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/obj/Debug/netcoreapp3.1/Example1.csproj.CoreCompileInputs.cache
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/obj/Debug/netcoreapp3.1/Example1.dll
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/obj/Debug/netcoreapp3.1/Example1.pdb
+/home/kilian/github/CS-Basics/0 - HelloWorld/Example1/obj/Debug/netcoreapp3.1/Example1.genruntimeconfig.cache
